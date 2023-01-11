@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnWallans
+- 👋 Hi, I’m Wallans
 - 👀 I'm interested in video games, coding and firefighter job
 - 🌱 I'm currently learning :
     - PHP
